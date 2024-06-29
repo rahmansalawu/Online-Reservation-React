@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Online-Reservation-React/static/css/main.04e4a4c9.css",
+    "main.js": "/Online-Reservation-React/static/js/main.9a34c60f.js",
+    "static/js/787.a2f6b77c.chunk.js": "/Online-Reservation-React/static/js/787.a2f6b77c.chunk.js",
+    "static/media/logo-vertical-white.png": "/Online-Reservation-React/static/media/logo-vertical-white.d09eb2af6c5a2225eedf.png",
+    "static/media/cta-hero-image.jpg": "/Online-Reservation-React/static/media/cta-hero-image.e751f187997155f12e3d.jpg",
+    "static/media/about-luigi.jpg": "/Online-Reservation-React/static/media/about-luigi.1094eda3b4291d3aab3e.jpg",
+    "static/media/about-mario.jpg": "/Online-Reservation-React/static/media/about-mario.955178e5c67b343a8edf.jpg",
+    "static/media/logo-original.png": "/Online-Reservation-React/static/media/logo-original.d4cae6fac8384c2dae04.png",
+    "static/media/greeksalad.jpg": "/Online-Reservation-React/static/media/greeksalad.a104f69961c7af22d2ca.jpg",
+    "static/media/bruchetta.jpg": "/Online-Reservation-React/static/media/bruchetta.faa96df7593d801d0617.jpg",
+    "static/media/lemondesert.jpg": "/Online-Reservation-React/static/media/lemondesert.c5bc14dbf86ef7e656e3.jpg",
+    "static/media/form-confirmation.jpg": "/Online-Reservation-React/static/media/form-confirmation.b9bdc7f3dd9e6f90f22b.jpg",
+    "index.html": "/Online-Reservation-React/index.html",
+    "static/media/hamburger-lemon-circle.svg": "/Online-Reservation-React/static/media/hamburger-lemon-circle.2cba90d9a2294d6ec4901bf28d25c693.svg",
+    "static/media/hamburger-lemon-half.svg": "/Online-Reservation-React/static/media/hamburger-lemon-half.2cba90d9a2294d6ec4901bf28d25c693.svg",
+    "main.04e4a4c9.css.map": "/Online-Reservation-React/static/css/main.04e4a4c9.css.map",
+    "main.9a34c60f.js.map": "/Online-Reservation-React/static/js/main.9a34c60f.js.map",
+    "787.a2f6b77c.chunk.js.map": "/Online-Reservation-React/static/js/787.a2f6b77c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04e4a4c9.css",
+    "static/js/main.9a34c60f.js"
+  ]
+}
